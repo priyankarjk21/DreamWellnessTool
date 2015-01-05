@@ -1,0 +1,70 @@
+<style type ="text/css">
+
+h1 {
+	color: BLUE;
+	font-family: 'Times New Roman';
+	font-size: 40px;
+	font-style: italic;
+}
+
+h2 {
+	color: RED;
+	font-family: 'Comic Sans';
+	font-size: 30px;
+	text-align: center;
+}
+
+
+
+
+h3 {
+	color: GREEN;
+	font-family: 'Arial';
+	font-size: 20px;
+	text-align: justify;
+}
+
+input[type="text"] {
+	font-family: Arial, san-serif;
+	color: BLACK;
+	font-size: 20px;
+	height: 20px;
+	width: 200px;
+}
+
+h4 {
+	font-family: 'Comic', san-serif;
+	color: BLUE;
+	font-size: 20px;
+}
+
+h5 {
+	color: BLUE;
+	font-family: 'Arial';
+	font-size: 10px;
+	text-align: justify;
+}
+
+h6 {
+	color: #800000;
+	font-family: "Monotype Corsiva";
+	font-size: 20px;
+	text-align: justify;
+}
+
+body,html {
+	height: 1200px;
+}
+
+content {
+	background-image: url("images/bg2.jpg");
+}
+
+p {
+	color: BLUE;
+	font-family: "Arial";
+	font-size: 15px;
+	text-align: justify;
+}
+
+</style>
